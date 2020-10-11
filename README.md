@@ -1,4 +1,4 @@
-These files contain the required Scripts for L2Net to fully set up the Party Assistance. A party is a group of players that will play together in order to help the each other. Some of these party members will be able to use certain skills in order to increase the party stats and make it way more powerfull. 
+These files contain the required Scripts for L2Net to fully set up the Party Assistance. A party is a group of players that will play together in order to help the each other. Some of these party members will be able to use certain skills in order to increase the party stats and make the party way more powerfull. 
 <br /><br />
 &nbsp;&nbsp;&nbsp;&nbsp;- Bladedancer: https://lineage2.fandom.com/el/wiki/Bladedancer
 <br />&nbsp;&nbsp;&nbsp;&nbsp;- Swordsinger: https://lineage2.fandom.com/el/wiki/Swordsinger
